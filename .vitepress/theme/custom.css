@@ -1,0 +1,7 @@
+/* Hide the native scrollbars; scrolling still works with wheel, touch and keys. */
+* {
+  scrollbar-width: none;
+}
+*::-webkit-scrollbar {
+  display: none;
+}

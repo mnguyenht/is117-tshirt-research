@@ -30,7 +30,7 @@ Direct competitor. Its name means "no-brand quality goods", the closest idea to 
 
 | Phone: homepage | Phone: product page |
 | --- | --- |
-| <img src="screenshots/muji-3-phone-home.jpg" width="260" alt="Muji homepage on a phone"> | <img src="screenshots/muji-4-phone-product.jpg" width="260" alt="Muji product page on a phone"> |
+| <img src="./screenshots/muji-3-phone-home.jpg" width="260" alt="Muji homepage on a phone"> | <img src="./screenshots/muji-4-phone-product.jpg" width="260" alt="Muji product page on a phone"> |
 
 | Where | Observation | What it suggests for Standard Issue |
 | --- | --- | --- |
@@ -54,7 +54,7 @@ Direct competitor. Everlane sells the plain tee as a set of facts (certified cot
 
 | Phone: homepage | Phone: product page |
 | --- | --- |
-| <img src="screenshots/everlane-3-phone-home.jpg" width="260" alt="Everlane homepage on a phone"> | <img src="screenshots/everlane-4-phone-product.jpg" width="260" alt="Everlane product page on a phone"> |
+| <img src="./screenshots/everlane-3-phone-home.jpg" width="260" alt="Everlane homepage on a phone"> | <img src="./screenshots/everlane-4-phone-product.jpg" width="260" alt="Everlane product page on a phone"> |
 
 | Where | Observation | What it suggests for Standard Issue |
 | --- | --- | --- |
@@ -81,7 +81,7 @@ Direct competitor, and the closest to Alex's "reliable while being cheap". Its t
 
 | Phone: homepage | Phone: product page |
 | --- | --- |
-| <img src="screenshots/quince-3-phone-home.jpg" width="260" alt="Quince homepage on a phone"> | <img src="screenshots/quince-4-phone-product.jpg" width="260" alt="Quince product page on a phone"> |
+| <img src="./screenshots/quince-3-phone-home.jpg" width="260" alt="Quince homepage on a phone"> | <img src="./screenshots/quince-4-phone-product.jpg" width="260" alt="Quince product page on a phone"> |
 
 | Where | Observation | What it suggests for Standard Issue |
 | --- | --- | --- |
@@ -106,7 +106,7 @@ Adjacent reference, not a direct competitor: same product, a different buyer. It
 
 | Phone: homepage | Phone: product page |
 | --- | --- |
-| <img src="screenshots/sunspel-3-phone-home.jpg" width="260" alt="Sunspel homepage on a phone"> | <img src="screenshots/sunspel-4-phone-product.jpg" width="260" alt="Sunspel product page on a phone"> |
+| <img src="./screenshots/sunspel-3-phone-home.jpg" width="260" alt="Sunspel homepage on a phone"> | <img src="./screenshots/sunspel-4-phone-product.jpg" width="260" alt="Sunspel product page on a phone"> |
 
 | Where | Observation | What it suggests for Standard Issue |
 | --- | --- | --- |
