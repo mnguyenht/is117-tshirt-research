@@ -169,6 +169,11 @@ The research favours position A for Alex: the value tier is loud with discounts 
 
 **Primary audience:** Alex, the budget shopper (learner's choice, 2026-11-03). **Why** (learner's words, 2026-11-04): "it was the closest to what I would be as a buyer for a white t-shirt like this. So I could see and evaluate it personally, other than projecting it to a character archetype."
 
+| Still open | Status |
+| --- | --- |
+| Class feedback (Nov 5) | Issue not yet created |
+| Open question | Does the $28 demo price need a reason Alex can check, or a lower price? |
+
 ## What Standard Issue can take from this
 
 AI suggestions drawn from the observations above, not decisions.
