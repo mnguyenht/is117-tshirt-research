@@ -6,6 +6,8 @@ Competitive landscape for [Standard Issue](https://standard-issue-is117.vercel.a
 
 Sites: Muji, Quince and Everlane (direct competitors) and Sunspel (adjacent premium reference, for the secondary persona Fiona). Each is read through three lenses: brand archetype, Cialdini's persuasion principles, and modernism vs postmodernism.
 
+**Evidence vs assumptions:** the Observation columns, prices and checkout states are what each page showed on 2026-11-03 (evidence). "What it suggests", Look, Brand character, the two positions and the personas are interpretations or hypotheses (assumptions).
+
 ## At a glance
 
 ![Look vs price: four competitors are modernist; Standard Issue alone is postmodern](screenshots/look-vs-price-map.png)
@@ -169,10 +171,15 @@ The research favours position A for Alex: the value tier is loud with discounts 
 
 **Primary audience:** Alex, the budget shopper (learner's choice, 2026-11-03). **Why** (learner's words, 2026-11-04): "it was the closest to what I would be as a buyer for a white t-shirt like this. So I could see and evaluate it personally, other than projecting it to a character archetype."
 
-| Still open | Status |
-| --- | --- |
-| Class feedback (Nov 5) | Issue not yet created |
-| Open question | Does the $28 demo price need a reason Alex can check, or a lower price? |
+**Open question:** Does the $28 demo price need a reason Alex can check, or a lower price?
+
+## Feedback and decisions
+
+Each peer issue gets a decision (implement, investigate, defer or decline) with the reason written in the issue. Accepted changes name the issue in the commit, for example `Clarify target audience (#3)`, and the reviewer retries the change before the issue is closed.
+
+| Issue | Feedback | Decision and reason | Change | How it was checked | Status |
+| --- | --- | --- | --- | --- | --- |
+| None yet | Class review, Nov 5 | | | | Waiting for review |
 
 ## What Standard Issue can take from this
 
@@ -191,7 +198,8 @@ Not checked: Mobbin needs a signed-in account, and a logged-out search redirecte
 ## Method, AI use and limits
 
 - **How:** Claude (an AI assistant) drove headless Chromium through Playwright 1.64: desktop at 1440 × 900, phone as iPhone 13. Cookie banners were declined and sign-up popups closed before the clean captures. Checkout walks stopped on the first checkout screen; nothing was typed or submitted.
-- **What the AI did:** captured the pages, wrote the observations and the archetype, Cialdini and modernism readings. The persona goals are the learner's own words from the [Brand Studio record](https://github.com/mnguyenht/is117-brand-assignment/blob/main/SPEC.md); the audience choice is the learner's to make.
+- **What the AI did:** captured the pages, wrote the observations, the two positions and the archetype, Cialdini and modernism readings. The persona goals are the learner's own words from the [Brand Studio record](https://github.com/mnguyenht/is117-brand-assignment/blob/main/SPEC.md); the audience choice and its reason are the learner's.
+- **How it was checked:** prices and checkbox states were read from each page's code at capture time, not from the images. Every screenshot was checked to load on the published site. The learner's own re-check of the live competitor sites: not yet done.
 - **Limits:** one day's snapshot during early Black Friday season; prices and banners will change. Brand readings are interpretations. Personas are untested hypotheses. Uniqlo and Hanes were blocked (403). Quince's delivery ZIP code, inferred from the network, was redacted. Screenshots of third-party sites are included for commentary and study.
 
 ## Sources
