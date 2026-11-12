@@ -179,7 +179,9 @@ Each peer issue gets a decision (implement, investigate, defer or decline) with 
 
 | Issue | Feedback | Decision and reason | Change | How it was checked | Status |
 | --- | --- | --- | --- | --- | --- |
-| None yet | Class review, Nov 5 | | | | Waiting for review |
+| [#4](https://github.com/mnguyenht/is117-tshirt-research/issues/4) | Position A calms the checkout but doesn't answer the $28 price risk for Alex | Implement: agreed, and Standard Issue has no checkable facts to justify $28 | Price decision replaces the open question ([e2969f5](https://github.com/mnguyenht/is117-tshirt-research/commit/e2969f5)) | Docs build passed; seen on the published page, 2026-11-12 | Closed |
+| [#5](https://github.com/mnguyenht/is117-tshirt-research/issues/5) | Same as #6 | Duplicate of #6 | None | n/a | Closed |
+| [#6](https://github.com/mnguyenht/is117-tshirt-research/issues/6) | Persona situations empty; assumptions not validated with real shoppers | Implement the situation part. Decline the validation part: the brief asks for labelled hypotheses, and both personas are marked unvalidated | Situation row filled for Alex and Fiona ([1e5c047](https://github.com/mnguyenht/is117-tshirt-research/commit/1e5c047)) | Docs build passed; seen on the published page, 2026-11-12 | Closed |
 
 ## What Standard Issue can take from this
 
