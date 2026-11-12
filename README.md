@@ -163,7 +163,7 @@ The research favours position A for Alex: the value tier is loud with discounts 
 
 | Persona hypothesis | Alex | Fiona |
 | --- | --- | --- |
-| Situation | Not chosen yet | Not chosen yet |
+| Situation | Replacing worn-out white tees worn most days, on their own or under a hoodie (learner's pick from AI-suggested options, 2026-11-12) | Wants one white tee to wear on its own on a weekend out, where the shirt is the whole outfit (learner's pick from AI-suggested options, 2026-11-12) |
 | Goal | "Reliable while being cheap"; "just a plain white T-shirt" (learner's words) | "Refinement, a story behind the product" (learner's words) |
 | Uncertainty | Is $28 worth it next to $15 to $30 tees? | What makes this tee better than any other? |
 | Evidence | Prices and checkout pressure observed 2026-11-03 | Sunspel's origin facts at $98 |
