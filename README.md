@@ -171,7 +171,7 @@ The research favours position A for Alex: the value tier is loud with discounts 
 
 **Primary audience:** Alex, the budget shopper (learner's choice, 2026-11-03). **Why** (learner's words, 2026-11-04): "it was the closest to what I would be as a buyer for a white t-shirt like this. So I could see and evaluate it personally, other than projecting it to a character archetype."
 
-**Open question:** Does the $28 demo price need a reason Alex can check, or a lower price?
+**Price decision** (learner's choice, 2026-11-12, after peer issue #4): lower the demo price toward Alex's anchor of about $15. Position A answers the checkout but not the price, and Standard Issue has no checkable facts to justify $28. The exact price and the store change follow in the [brand repo](https://github.com/mnguyenht/is117-brand-assignment).
 
 ## Feedback and decisions
 
