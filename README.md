@@ -1,6 +1,6 @@
 # Standard Issue: T-shirt Research (IS117-007)
 
-Competitive landscape for [Standard Issue](https://standard-issue-is117.vercel.app), a one-product white T-shirt store ([brand repo](https://github.com/mnguyenht/is117-brand-assignment)). Captured 2026-11-03.
+Competitive landscape for [Standard Issue](https://standard-issue-is117.vercel.app), a one-product white T-shirt store ([brand repo](https://github.com/mnguyenht/is117-brand-assignment)). Captured 2026-11-03. Next step: the [Plan](./plan.md).
 
 **Finding:** Standard Issue is the only postmodern look and the only calm first visit among the four white-tee sellers checked. Every competitor's checkout adds pressure or a default that Standard Issue does not. Its weak spot is price: a $28 demo price against Muji's $14.90 and Quince tees from $19.90.
 

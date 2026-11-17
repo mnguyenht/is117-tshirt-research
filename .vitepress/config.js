@@ -9,6 +9,10 @@ export default defineConfig({
   // The README is the home page, so GitHub and the website read the same file.
   rewrites: { "README.md": "index.md" },
   themeConfig: {
+    nav: [
+      { text: "Research", link: "/" },
+      { text: "Plan", link: "/plan" },
+    ],
     outline: { level: 2, label: "On This Page" },
     socialLinks: [
       { icon: "github", link: "https://github.com/mnguyenht/is117-tshirt-research" },
